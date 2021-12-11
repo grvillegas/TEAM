@@ -1,0 +1,16 @@
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\obj\Debug\net5.0\team.csprojAssemblyReference.cache
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\obj\Debug\net5.0\team.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\obj\Debug\net5.0\team.AssemblyInfoInputs.cache
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\obj\Debug\net5.0\team.AssemblyInfo.cs
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\obj\Debug\net5.0\team.csproj.CoreCompileInputs.cache
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\bin\Debug\net5.0\team.exe
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\bin\Debug\net5.0\team.deps.json
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\bin\Debug\net5.0\team.runtimeconfig.json
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\bin\Debug\net5.0\team.runtimeconfig.dev.json
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\bin\Debug\net5.0\team.dll
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\bin\Debug\net5.0\ref\team.dll
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\bin\Debug\net5.0\team.pdb
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\obj\Debug\net5.0\team.dll
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\obj\Debug\net5.0\ref\team.dll
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\obj\Debug\net5.0\team.pdb
+C:\Users\vp45640\Documents\cosas de gustavo\TEAM\obj\Debug\net5.0\team.genruntimeconfig.cache
